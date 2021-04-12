@@ -1,0 +1,22 @@
+{
+  "name": "wx-sdk",
+  "version": "0.0.0",
+  "description": "封装微信sdk工具包",
+  "keywords": [
+    "wx-sdk"
+  ],
+  "author": "heweizhi <heweizhi@guanmai.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/wx-sdk.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

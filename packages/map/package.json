@@ -1,0 +1,22 @@
+{
+  "name": "map",
+  "version": "0.0.0",
+  "description": "map包",
+  "keywords": [
+    "map"
+  ],
+  "author": "heweizhi <heweizhi@guanmai.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/map.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
